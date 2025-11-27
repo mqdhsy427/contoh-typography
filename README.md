@@ -1,2 +1,45 @@
-# contoh-typography
-index.html
+
+[index.html](https://github.com/user-attachments/files/23781418/index.html)
+<html>
+  <head>
+    Typography menggunakan aplikasi after effect
+   <title>Typography</title>
+   <link rel="stylesheet" href="style.css"/>
+</head>
+  <body>
+     <!-- navigation bar1 -->
+      <div class="navbar-container">
+         <ul>
+            <li><nav>
+      <a href="tambahan.html"> sumber video</a>
+      
+    </nav>
+           </li>
+            <li> nama akun tiktok: @mahiru__nguyen</li>
+            
+         </ul>
+      </div>
+
+      <!-- nav bar selesai -->
+
+     <!-- content -->
+      <div>
+      <video width="80%" height="80%" controls>
+        <source src="intro.mp4" type="video/mp4">
+        Browser tidak mendukung video.
+      </video>
+    </div>
+
+     <!-- content 1 -->
+      
+    <!-- foouter -->
+      <dif> 
+       <h1>terima kasih!</h1>
+      </dif>
+     <!-- fouter end -->
+
+   
+
+
+  </body>
+</html>
